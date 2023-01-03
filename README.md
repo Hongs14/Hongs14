@@ -1,4 +1,4 @@
-## Hi, This is Hong's github 👋
+# Hi, This is Hong's github 👋
 
 <!--
 **Hongs14/Hongs14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongs14&count_bg=%23D636DB&title_bg=%234E4251&icon=ghostery.svg&icon_color=%23FDFDFD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
-#  🛠STACK
+##  🛠STACK
   
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-🔭 current project =  **Spring Project - LMS System**
+## 💾 current project =  **Spring Project - LMS System**
 
 </div>
 
