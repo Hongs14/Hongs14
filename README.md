@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <div align="center">
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHongs14&count_bg=%23D636DB&title_bg=%234E4251&icon=ghostery.svg&icon_color=%23FDFDFD&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+#  🛠STACK
   
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=Java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=JavaScript&logoColor=white)
