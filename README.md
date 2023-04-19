@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-## 💾 current project =  **Final Project - SRM System**
+## 💾 current project =  **ToyProject - EleCar**
 
 </div>
 
